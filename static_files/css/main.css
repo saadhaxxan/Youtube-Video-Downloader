@@ -138,8 +138,8 @@ tr:nth-child(even) {
 }
 
 th {
-    background-color: #d6f227;
-    color: black;
+    background-color: red;
+    color: white;
 }
 
 #m-show {
