@@ -1,5 +1,3 @@
-# Youtube-Video-Downloader
-
 <div align="center">
 <h1>Youtube Video Downloader</h1>
 <h3>Download youtube videos in different resolutions and even in mp3!</h3>
