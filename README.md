@@ -23,13 +23,6 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-## Admin Panel Access
-```
-python manage.py createsuperuser
-enter credentials
-move to 127.0.0.1:8000/admin
-```
-
 ## Author
 You can get in touch with me on my LinkedIn Profile:
 
