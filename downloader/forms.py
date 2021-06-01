@@ -2,4 +2,4 @@ from django import forms
 
 
 class DownloadForm(forms.Form):
-    url = forms.CharField(widget=forms.TextInput(attrs={ 'placeholder': 'Enter video url' }), label=False)
+    url = forms.CharField(widget=forms.TextInput(attrs={ 'placeholder': 'Enter video url','autocomplete':'off' }), label=False)
