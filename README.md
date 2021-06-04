@@ -15,7 +15,7 @@
 Clone the Repo and install the requirements
 
 ```
-git clone https://github.com/saadhaxxan/Youtube-Video-Downloader
+git clone https://github.com/saadhaxxan/Youtube-Video-Downloader.git
 cd Youtube-Video-Downloader
 pip install -r requirements.txt
 python manage.py makemigrations
