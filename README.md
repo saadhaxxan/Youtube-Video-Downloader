@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Youtube Video Downloader</h1>
-<h4>Download youtube videos in different resolutions and even in mp3 !</h4>
+<h4>Download youtube videos in different resolutions and even in mp3!</h4>
 
 <img src="sc1.png">
 
