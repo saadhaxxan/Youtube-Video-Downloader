@@ -23,9 +23,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = '075u-q_+i&w%7zvbvl^540@ir5(x#-l0lhg&a@ou&d-6i%a%n)'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
-ALLOWED_HOSTS = ["ytvid-downloader.herokuapp.com"]
+ALLOWED_HOSTS = ["ytvid-downloader.herokuapp.com",'*']
 
 
 # Application definition
